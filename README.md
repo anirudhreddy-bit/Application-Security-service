@@ -1,1 +1,1 @@
-# miniproject-2
+# Library Management Application
